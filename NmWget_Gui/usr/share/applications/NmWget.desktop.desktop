@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=NmWget
+GenericName=Wget GUI
+Comment=Wget GUI
+Exec=NmWget
+Terminal=True
+Type=Application
+Icon=icon
+
+Name[en]=NmWget.desktop
