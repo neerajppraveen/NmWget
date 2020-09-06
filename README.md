@@ -10,8 +10,10 @@ It is GUI for wget.
 
 <br>
 <br>
+
 #Dependencies
 -------------------
+
 <br>
 1.Python 2.x <br>
 2.WxPython <br>
