@@ -1,6 +1,5 @@
 # NmWget-GUI
-Wget GUI
-
+GRAPHICAL USER INTERFACE FOR WGET
 Dependencies
 -------------------
 1.Python 2.x <br>
