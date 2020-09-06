@@ -11,19 +11,13 @@ It is GUI for wget.
 <br>
 
 <u><h3>Dependencies</h3></u>
-
-
 <br>
 1.Python 2.x <br>
 2.WxPython <br>
 3.gettext <br>
 4.wget<br>
- 
 <u><h3>MIT License</h3></u><br>
-
-
-Copyright (c) 2020 Neerajppraveen2
-
+Copyright (c) 2020 Neeraj p praveen
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
