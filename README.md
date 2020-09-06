@@ -10,15 +10,16 @@ It is GUI for wget.
 
 <br>
 <br>
-#Dependencies<br>
+#Dependencies
 -------------------
+<br>
 1.Python 2.x <br>
 2.WxPython <br>
 3.gettext <br>
 4.wget<br>
  
-MIT License<br>
-  
+#MIT License<br>
+-----------------------
 
 Copyright (c) 2020 Neerajppraveen2
 
@@ -40,5 +41,4 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-#Developer : Neeraj P.Praveen<br>
 -----------------------------------
