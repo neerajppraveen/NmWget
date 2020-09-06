@@ -1,18 +1,17 @@
 # NmWget-GUI
 <h3>GRAPHICAL USER INTERFACE FOR WGET</h3>
+
+<ol>
 <li>What is wget ?</li>
-<br>
 it is Linux and UNIX command for downloading files from the Internet.
-
 <li>What is NmWget ?</li>
-<br>
 It is GUI for wget.
-
+</ol>
 <br>
 <br>
 
-#Dependencies
--------------------
+<u><h3>Dependencies</h3></u>
+
 
 <br>
 1.Python 2.x <br>
@@ -20,8 +19,8 @@ It is GUI for wget.
 3.gettext <br>
 4.wget<br>
  
-#MIT License<br>
------------------------
+<u><h3>MIT License</h3></u><br>
+
 
 Copyright (c) 2020 Neerajppraveen2
 
