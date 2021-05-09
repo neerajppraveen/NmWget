@@ -1,10 +1,7 @@
 # NmWget-GUI
 <h3>GRAPHICAL USER INTERFACE FOR WGET</h3>
 
-<ol>
-<li>wget</li>
-it is Linux and UNIX command for downloading files from the Internet.
-</ol>
+
 <br>
 <br>
 
