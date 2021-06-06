@@ -1,10 +1,5 @@
 # NmWget-GUI
-<h3>GRAPHICAL USER INTERFACE FOR WGET</h3>
-
-
-<br>
-<br>
-
+## GRAPHICAL USER INTERFACE FOR WGET
 <u><h3>Dependencies</h3></u>
 <br>
 1.Python 2.x <br>
